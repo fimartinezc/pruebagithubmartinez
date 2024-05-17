@@ -16,5 +16,9 @@ public class Sesion23MartinezISGITHUB {
      */
     public static void main(String[] args) {
         System.out.println("Prueba de GITHUB 1 MARTINEZ");
+        System.out.println("Prueba de GITHUB 2 MARTINEZ");
+        System.out.println("Prueba de GITHUB 3 MARTINEZ");
+        System.out.println("Prueba de GITHUB 4 MARTINEZ");
+        System.out.println("Prueba de GITHUB 5 MARTINEZ");
     }
 }
